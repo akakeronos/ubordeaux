@@ -34,7 +34,7 @@ Le contenu créé par Datactivist est placé sous la licence [Creative Commons C
 ]
 ---
 # Qui suis-je?
-.pull-left[- Spécialiste de l’open data : j’ai cofondé de [Datactivist](datactivi.st), une société coopérative qui a pour mission d’ouvrir des données et de les rendre utiles. 
+.pull-left[- Spécialiste de l’open data : j’ai cofondé [Datactivist](datactivi.st), une société coopérative qui a pour mission d’ouvrir des données et de les rendre utiles. 
 
 - Militant de l’ouverture, j’ai co-fondé [Open Knowledge France](okfn.fr). 
 
@@ -43,12 +43,13 @@ Le contenu créé par Datactivist est placé sous la licence [Creative Commons C
 .pull-right[
 ![](img/qui2.png)
 ]
+.footnote[(La [Public Domain Review](http://publicdomainreview.org/) est toujours là pour vous fournir des illustrations en cas de panne d'inspiration)]
 ---
 class:inverse, center, middle
 # Aux origines de l'open data "de l'offre"
 ### Retour sur quelques moments fondateurs
 
----
+--
 # Un cadre juridique ancien
 ![](img/chrono.png)
 ---
