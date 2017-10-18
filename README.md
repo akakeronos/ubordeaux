@@ -1,7 +1,7 @@
 # De l'open data de l'offre à l'open data de la demande : un premier bilan critique de l’ouverture des données
 **Mercredi 18 octobre 2017, 1re Rencontre MIND**
 
-![](mind.jpg)
+<div style="text-align:center"><img src ="mind.jpg"/></div>
 
 En décembre 2017, cela fera 10 ans que les principes de l’open data ont été formulés. Depuis, plus de 50 pays dans le monde ont adopté une politique d’open data et le mouvement ne cesse de s'étendre dans les collectivités locales, les institutions et les entreprises. La France est le premier pays à avoir inscrit dans la loi un engagement d’ouverture des données par défaut. Mais quel premier bilan peut-on tirer de ces dix années ?
 
