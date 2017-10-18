@@ -21,22 +21,28 @@ Le contenu créé par Datactivist est placé sous la licence [Creative Commons C
 <img src="./img/Logo_DATACTIVIST_TW.png" height="100px" />
 ---
 # Au programme
-- La naissance de l’open data de l’offre
+.pull-left[- La naissance de l’open data de l’offre
 
 - Ouvrir des données : jetons un œil aux coulisses 
 
 - Les limites de l’open data de l’offre
 
 - La vision de Datactivist : vers un open data de la demande
-
+]
+.pull-right[
+![](img/qui.jpg)
+]
 ---
 # Qui suis-je?
-- Spécialiste de l’open data : j’ai cofondé de [Datactivist](datactivi.st), une société coopérative qui a pour mission d’ouvrir des données et de les rendre utiles. 
+.pull-left[- Spécialiste de l’open data : j’ai cofondé de [Datactivist](datactivi.st), une société coopérative qui a pour mission d’ouvrir des données et de les rendre utiles. 
 
 - Militant de l’ouverture, j’ai co-fondé [Open Knowledge France](okfn.fr). 
 
-- Chercheur sur l’open data, j’ai fait ma [thèse de doctorat en sociologie "Instaurer des données, instaurer des publics : une enquête sociologique dans les coulisses de l'open data"](https://pastel.archives-ouvertes.fr/tel-01458098) sur le sujet. 
-
+- Chercheur sur l’open data, j’ai fait ma thèse de doctorat en sociologie ["Instaurer des données, instaurer des publics : une enquête sociologique dans les coulisses de l'open data"](https://pastel.archives-ouvertes.fr/tel-01458098) sur le sujet. 
+]
+.pull-right[
+![](img/qui2.png)
+]
 ---
 class:inverse, center, middle
 # Aux origines de l'open data "de l'offre"
@@ -61,7 +67,7 @@ class:inverse, center, middle
 ![](img/ted.png)
 ]
 ---
-## 2008 : le modèle 5*, faciliter la lisibilité par les machines
+## 2008 : le modèle 5⭐, faciliter la lisibilité par les machines
 .reduite[
 ![](img/5*.png)
 ]
@@ -76,6 +82,8 @@ Au départ, on ne s’intéresse pas au contenu des données et au projet politi
 >La publication électroniques des déclarations de la Corée du Nord pourrait, par exemple, satisfaire ces huit critères. »
 
 .footnote[Traduction personnelle depuis Yu & Robinson (2012). "The New Ambiguity of “Open Government”." *UCLA Law Review* 178: 178-208.]
+
+Plusieurs instruments comme les classements et la charte internationale de l'open data ont tenté de corriger cela.
 ---
 ## 2010 : l'ère des classements, vérifier l'ouverture des données essentielles
 .reduite[![](img/baro.png)]
@@ -83,21 +91,21 @@ Au départ, on ne s’intéresse pas au contenu des données et au projet politi
 ## 2013 : la charte internationale, des objectifs politiques pour l'open data
 .reduite[![](img/charter.png)]
 ---
-## L'open data "de l'offre"
+# L'open data "de l'offre" ?
 .pull-left[
 
 
-EN THEORIE
+## En théorie
 
-Toutes les données sont ouvertes sous leur forme brute dès leur production
+### Toutes les données sont ouvertes sous leur forme brute dès leur production
 
 ]
 .pull-right[
 
 
-EN PRATIQUE
+## En pratique
 
-L’administration choisit quelles données ouvrir, comment les ouvrir, quand et ce qu’elles contiennent
+###L’administration choisit quelles données ouvrir, comment les ouvrir, quand et ce qu’elles contiennent
 
 ]
 ---
@@ -117,11 +125,11 @@ class:inverse, middle, center
 ]]
 .pull-right[
 
-Trouver les données
+### Trouver les données
 
-Identifier leurs responsables
+### Identifier leurs responsables
 
-Instaurer les données
+### Instaurer les données
 
 ]
 ---
@@ -132,9 +140,9 @@ Instaurer les données
 ]]
 .pull-right[
 
-Obtenir l’ouverture
+### Obtenir l’ouverture
 
-Contourner les « bonnes raisons organisationnelles » de ne pas ouvrir
+### Contourner les « bonnes raisons organisationnelles » de ne pas ouvrir
 
 ]
 ---
@@ -145,11 +153,11 @@ Contourner les « bonnes raisons organisationnelles » de ne pas ouvrir
 ]]
 .pull-right[
 
-Reconstituer les bases de données
+### Reconstituer les bases de données
 
-Construire des "moulinettes"
+### Construire des "moulinettes"
 
-Tenter d'automatiser l'ouverture
+### Tenter d'automatiser l'ouverture
 ]
 ---
 # Transformation
@@ -159,9 +167,11 @@ Tenter d'automatiser l'ouverture
 ]]
 .pull-right[
 
-Editer les données
+### Editer les données
 
-Les standardiser
+### Les standardiser
+
+### Repenser la "qualité" des données
 ]
 ---
 # Publication
@@ -171,9 +181,9 @@ Les standardiser
 ]]
 .pull-right[
 
-Produire des métadonnées
+### Produire des métadonnées pour rendre intelligibles les données
 
-Visualiser les données
+### Retravailler les fichiers pour permettre l'exploration et la visualisation des données
 
 
 ]
@@ -185,9 +195,11 @@ Visualiser les données
 ]
 .pull-right[
 
-Relancer les producteurs de données 
+### Relancer les producteurs de données 
 
-Prendre en compte les retours des usagers
+### Prendre en compte les retours des usagers
+
+### Automatiser l'ouverture
 ]
 ---
 # Les limites de l’open data « de l’offre » pour l’administration
@@ -197,13 +209,13 @@ Prendre en compte les retours des usagers
 ]
 .pull-right[
 
-- Un travail considérable qui est souvent sous-évalué
+#### Un travail considérable qui est souvent sous-évalué
 
-- « Le boulot de personne » : rarement dans les missions des agents
+#### « Le boulot de personne » : rarement dans les missions des agents
 
-- Des projets tributaires des orientations politiques
+#### Des projets tributaires des orientations politiques
 
-- Des publics de données parfois introuvables
+####  Des publics de données parfois introuvables
 ]
 ---
 # Les frictions et les déceptions des usagers
@@ -211,15 +223,15 @@ Prendre en compte les retours des usagers
 [![](img/users.png)](https://thereboot.github.io/moti-personas/)
 ]
 .pull-right[
-- Des données difficiles à trouver, pas ouvertes partout
+####  Des données difficiles à trouver, pas ouvertes partout
 
-- Granularité temporelle et spatiale souvent trop faible
+####  Granularité temporelle et spatiale souvent trop faible
 
-- Des données souvent inutilisables : manque de documentation
+####  Des données souvent inutilisables : manque de documentation
 
-- Des données pas mises à jour
+####  Des données pas mises à jour
 
-- Des portails qui ciblent les développeurs
+####  Des portails qui ciblent les développeurs
 
 ]
 
@@ -282,4 +294,4 @@ class:inverse, middle, center
 
 ## Des questions ? 
 
-.footnote[Contactez moi à samuel@datactivi.st]
+.footnote[Vous pouvez me contacter à l'adresse samuel@datactivi.st]
