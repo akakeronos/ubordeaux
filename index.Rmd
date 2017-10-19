@@ -49,7 +49,7 @@ class:inverse, center, middle
 # Aux origines de l'open data "de l'offre"
 ### Retour sur quelques moments fondateurs
 
---
+---
 # Un cadre juridique ancien
 ![](img/chrono.png)
 ---
